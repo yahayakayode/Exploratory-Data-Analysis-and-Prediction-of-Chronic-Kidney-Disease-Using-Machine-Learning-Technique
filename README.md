@@ -1,8 +1,8 @@
 ## Exploratory Data Analysis and Prediction of Chronic Kidney Disease Using Machine Learning Technique
 
 ### Background 
-> Chronic kidney disease (CKD) is a type of kidney disease in which there is gradual loss of kidney function over a period of months to years.  
-> Initially there are generally no symptoms; later, symptoms may include leg swelling, feeling tired, vomiting, loss of appetite, and confusion, [source](https://en.wikipedia.org/wiki/Chronic_kidney_disease) 
+  Chronic kidney disease (CKD) is a type of kidney disease in which there is gradual loss of kidney function over a period of months to years.  
+  Initially there are generally no symptoms; later, symptoms may include leg swelling, feeling tired, vomiting, loss of appetite, and confusion, [source](https://en.wikipedia.org/wiki/Chronic_kidney_disease) 
 
 The human kidney is involved in multiple key functions of the body system which Includes:
   - They help to regulate and filter minerals from blood<br>
