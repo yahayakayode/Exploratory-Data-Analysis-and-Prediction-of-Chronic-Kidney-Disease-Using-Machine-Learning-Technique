@@ -16,9 +16,9 @@ The human kidney is involved in multiple key functions of the body system which 
   However, this usuaally occur at the advance stage of chronic kidney disease and symptoms will only show up at a severe stage which often call urget medical attendant.
 
 ### Project Overview
-The objective of this project is to write a standard code that can be used across biomedical data science project. The dataset used for the proof of concept can help physicians to get better understanding of of Chronic Kidney Disease (CKD) using various measurements and biomakers. The dataset used for this project can be found here
+The objective of this project is to write a standard code that can be used across biomedical data science project. The dataset used for the proof of concept can help physicians to get better understanding of of Chronic Kidney Disease (CKD) using various measurements and biomakers. The dataset used for this project can be found [here](https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease)
 
-Specifically, the project will help physicians have an in-depth understanding of of:
+Specifically, the project will help physicians have an in-depth understanding of:
 
 - Risk factors for Chronic Kidney Disease
 - Potential Chronic Kidney Disease sub-types
@@ -26,31 +26,31 @@ Specifically, the project will help physicians have an in-depth understanding of
 ### Data Dictionary
 The dataset contained 400 insranaces and 25 columns as detailed below.
 
-age - age
-bp - blood pressure
-sg - specific gravity
-al - albumin
-su - sugar
-rbc - red blood cells
-pc - pus cell
-pcc - pus cell clumps
-ba - bacteria
-bgr - blood glucose random
-bu - blood urea
-sc - serum creatinine
-sod - sodium
-pot - potassium
-hemo - hemoglobin
-pcv - packed cell volume
-wc - white blood cell count
-rc - red blood cell count
-htn - hypertension
-dm - diabetes mellitus
-cad - coronary artery disease
-appet - appetite
-pe - pedal edema
-ane - anemia
-classification - class
+- age - age
+- bp - blood pressure
+- sg - specific gravity
+- al - albumin
+- su - sugar
+- rbc - red blood cells
+- pc - pus cell
+- pcc - pus cell clumps
+- ba - bacteria
+- bgr - blood glucose random
+- bu - blood urea
+- sc - serum creatinine
+- sod - sodium
+- pot - potassium
+- hemo - hemoglobin
+- pcv - packed cell volume
+- wc - white blood cell count
+- rc - red blood cell count
+- htn - hypertension
+- dm - diabetes mellitus
+- cad - coronary artery disease
+- appet - appetite
+- pe - pedal edema
+- ane - anemia
+- classification - class
 
 ### Summary
 After an in-depth analysis of the dataset, the dataset revealed the following
@@ -64,4 +64,4 @@ After an in-depth analysis of the dataset, the dataset revealed the following
   - **dm** - Diabetes
   - **cad** - Coronary artery disease
   - **age** - age
-  2. The model give a good prediction performance of 95% accuracy
+  2. The Logistics regression algorithm model give an accuracy of 95%.
