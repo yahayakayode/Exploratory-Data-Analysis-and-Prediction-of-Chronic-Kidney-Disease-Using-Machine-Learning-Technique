@@ -15,6 +15,43 @@ The human kidney is involved in multiple key functions of the body system which 
   there is every likelihood that both kidneys will fail, leading to acute renal failure. This can be fatal without artificial filtering (dialysis) or a kidney transplant.
   However, this usuaally occur at the advance stage of chronic kidney disease and symptoms will only show up at a severe stage which often call urget medical attendant.
 
+### Project Overview
+The objective of this project is to write a standard code that can be used across biomedical data science project. The dataset used for the proof of concept can help physicians to get better understanding of of Chronic Kidney Disease (CKD) using various measurements and biomakers. The dataset used for this project can be found here
+
+Specifically, the project will help physicians have an in-depth understanding of of:
+
+- Risk factors for Chronic Kidney Disease
+- Potential Chronic Kidney Disease sub-types
+  
+### Data Dictionary
+The dataset contained 400 insranaces and 25 columns as detailed below.
+
+age - age
+bp - blood pressure
+sg - specific gravity
+al - albumin
+su - sugar
+rbc - red blood cells
+pc - pus cell
+pcc - pus cell clumps
+ba - bacteria
+bgr - blood glucose random
+bu - blood urea
+sc - serum creatinine
+sod - sodium
+pot - potassium
+hemo - hemoglobin
+pcv - packed cell volume
+wc - white blood cell count
+rc - red blood cell count
+htn - hypertension
+dm - diabetes mellitus
+cad - coronary artery disease
+appet - appetite
+pe - pedal edema
+ane - anemia
+classification - class
+
 ### Summary
 After an in-depth analysis of the dataset, the dataset revealed the following
   1. There is strong correlation between CKD and the following features, which implies that patients who have them is likely to have CKD.
